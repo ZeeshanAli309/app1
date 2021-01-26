@@ -38,4 +38,4 @@ jobs:
       - name: installing surge
         run: npm install --g surge
       - name: deploying
-        run: surge ./build http://foolish-connection.surge.sh/ --token ${{secrets.SECRET_TOKEN}}
+        run: surge ./build http://foolish-connection.surge.sh/ --token "8fe75e98c37600ada41f7b7a1fa27ad9"
