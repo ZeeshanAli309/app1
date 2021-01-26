@@ -38,4 +38,4 @@ jobs:
       - name: installing surge
         run: npm install --g surge
       - name: deploying
-        run: surge ./build http://cowardly-drink.surge.sh --token "8fe75e98c37600ada41f7b7a1fa27ad9"
+        run: surge ./build http://premium-cherries.surge.sh/ --token "8fe75e98c37600ada41f7b7a1fa27ad9"
