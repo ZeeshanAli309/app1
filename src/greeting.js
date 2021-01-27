@@ -2,7 +2,7 @@ import React from "react"
 
 
 function Greeting(){
-    return(<h1>hello guys </h1>);
+    return(<h1>hello guyssss </h1>);
         
     
 }
